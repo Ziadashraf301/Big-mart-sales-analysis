@@ -18,21 +18,21 @@
 
 ## Data wrangling
 
-[The file Data cleaning.pdf above contains the details about the data cleaning process.](https://github.com/Ziadashraf301/Big-mart-sales-analysis/blob/main/Dashboard.PNG)
+[The file Data cleaning.pdf above contains the details about the data cleaning process.](https://github.com/Ziadashraf301/Big-mart-sales-analysis/blob/1bc547ff40d8157a194cfb9d3ba12d464bc5a9d5/Data%20cleaning.pdf)
 
 ![](https://github.com/Ziadashraf301/Big-mart-sales-analysis/blob/1bc547ff40d8157a194cfb9d3ba12d464bc5a9d5/Data%20wrangling.PNG)
 
-## Data analysis:
+## Data analysis
 
 [The file Big mart sales analysis.xlsx above contains the data after analysis, visuals, and dashboard.](https://github.com/Ziadashraf301/Big-mart-sales-analysis/blob/main/Big%20mart%20sales%20analysis.xlsx)
 
 ![](https://github.com/Ziadashraf301/Big-mart-sales-analysis/blob/main/Dashboard.PNG)
 
-## Data storytelling:
+## Data storytelling
 
 [The file Big mart sales.pptx above contains the presentation of the analysis and the insights.](https://github.com/Ziadashraf301/Big-mart-sales-analysis/blob/1bc547ff40d8157a194cfb9d3ba12d464bc5a9d5/Big%20mart%20sales.pptx)
 
-## Conclusions and recommendations:
+## Conclusions and recommendations
 
 - The outlets that will be established should be in tier 3 because the most considerable sales are there.
 - They should focus on vegetables, fruit products, snack food, and household products in their new outlet. 
