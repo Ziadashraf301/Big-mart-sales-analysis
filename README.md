@@ -18,13 +18,13 @@
 
 ## Data wrangling
 
-[The file Data cleaning.pdf above contains the details about the data cleaning process.](https://github.com/Ziadashraf301/Big-mart-sales-analysis/blob/1bc547ff40d8157a194cfb9d3ba12d464bc5a9d5/Data%20cleaning.pdf)
+[The file Data cleaning.pdf above contains the details about the data cleaning process.](https://github.com/Ziadashraf301/Big-mart-sales-analysis/blob/30283ff707a2a8db25a0054ac7265dc5cfeeefd2/Data%20cleaning.pdf)
 
-![](https://github.com/Ziadashraf301/Big-mart-sales-analysis/blob/1bc547ff40d8157a194cfb9d3ba12d464bc5a9d5/Data%20wrangling.PNG)
+![](https://github.com/Ziadashraf301/Big-mart-sales-analysis/blob/30283ff707a2a8db25a0054ac7265dc5cfeeefd2/Data%20wrangling.PNG)
 
 ## Data analysis
 
-[The file Big mart sales analysis.xlsx above contains the data after analysis, visuals, and dashboard.](https://github.com/Ziadashraf301/Big-mart-sales-analysis/blob/main/Big%20mart%20sales%20analysis.xlsx)
+[The file Big mart sales analysis.xlsx above contains the data after analysis, visuals, and dashboard.](https://github.com/Ziadashraf301/Big-mart-sales-analysis/blob/30283ff707a2a8db25a0054ac7265dc5cfeeefd2/Big%20mart%20sales%20analysis.xlsx)
 
 ![](https://github.com/Ziadashraf301/Big-mart-sales-analysis/blob/main/Dashboard.PNG)
 
